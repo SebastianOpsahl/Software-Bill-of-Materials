@@ -1,0 +1,44 @@
+[
+    {
+        "name": "express",
+        "version": "4.17.1",
+        "type": "npm",
+        "file_path": "test_repos\\js_repo1\\package.json",
+        "git_commit": null
+    },
+    {
+        "name": "array-flatten",
+        "version": "1.1.1",
+        "type": "npm",
+        "file_path": "test_repos\\js_repo1\\package.json",
+        "git_commit": null
+    },
+    {
+        "name": "cookie",
+        "version": "0.4.0",
+        "type": "npm",
+        "file_path": "test_repos\\js_repo1\\package.json",
+        "git_commit": null
+    },
+    {
+        "name": "lodash",
+        "version": "4.17.20",
+        "type": "npm",
+        "file_path": "test_repos\\js_repo1\\package.json",
+        "git_commit": null
+    },
+    {
+        "name": "flask",
+        "version": "1.1.2",
+        "type": "pip",
+        "file_path": "test_repos\\python_repo1\\requirements.txt",
+        "git_commit": null
+    },
+    {
+        "name": "requests",
+        "version": "2.25.1",
+        "type": "pip",
+        "file_path": "test_repos\\python_repo1\\requirements.txt",
+        "git_commit": null
+    }
+]
