@@ -1,7 +1,0 @@
-name,version,type,file_path,git_commit
-express,4.17.1,npm,test_repos\js_repo1\package.json,
-array-flatten,1.1.1,npm,test_repos\js_repo1\package.json,
-cookie,0.4.0,npm,test_repos\js_repo1\package.json,
-lodash,4.17.20,npm,test_repos\js_repo1\package.json,
-flask,1.1.2,pip,test_repos\python_repo1\requirements.txt,
-requests,2.25.1,pip,test_repos\python_repo1\requirements.txt,
